@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    padding: 25px;
+}
+p{
+    color: red;
+    
+}
+#count{
+    font-size: large;
+    display: inline;
+    padding-bottom: 5px;
+    
+    border-bottom: 1px solid white;
+}
+button{
+    margin-top: 15px;
+    padding: 5px 15px;
+    margin-right: 5px;
+}
+#clr{
+    background-color: black;
+    color: white;
+    padding: 5px 30px;
+    
+}
